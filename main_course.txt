@@ -1,2 +1,7 @@
 The main course of the meal will consist of:
-(delete this line and write in the main course)
+Spagetti
+Meatballs
+Mac and Cheese
+Lamb Curry
+Chicken Tikka
+Paneer
